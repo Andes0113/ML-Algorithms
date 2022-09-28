@@ -64,5 +64,4 @@ class LinearRegression:
 	# Prediction
 	def predict(self, X):
 		# Predict using y = wX + b
-		y_pred = np.dot(X, self.weights) + self.bias
-		return y_pred
+		return np.dot(X, self.weights) + self.bias
