@@ -61,10 +61,6 @@ class LinearRegression:
 			self.weights = self.weights - self.lr * dw
 			self.bias = self.bias - self.lr * db
 
-
-
-
-
 	# Prediction
 	def predict(self, X):
 		# Predict using y = wX + b
