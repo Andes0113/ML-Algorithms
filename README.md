@@ -1,10 +1,10 @@
 # Machine Learning Algorithms
 
-## Alexander Rowe
+### Alexander Rowe
 
 #### This repository details my process researching and programming machine learning algorithms
 
-##### Libraries used are 
+#### Libraries used: 
 
 - numpy for large data set operations
 
